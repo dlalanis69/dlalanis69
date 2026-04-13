@@ -24,7 +24,7 @@
 A fun and interactive webpage created using HTML, CSS, and JavaScript.  
 Designed to deliver a personalized Valentine’s experience with creative UI elements and animations.
 
-🔗 https://github.com/dlalanis69/valentines-webpage
+🔗 https://github.com/dlalanis69/valentine
 
 ---
 

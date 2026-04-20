@@ -28,15 +28,6 @@ Designed to deliver a personalized Valentine’s experience with creative UI ele
 
 ---
 
-### 🎬 Movie Rental System
-
-A console-based application built in Python using Object-Oriented Programming.  
-Simulates a real-world rental system with features like movie management, customer registration, borrowing/returning, waitlists, and recommendations.
-
-🔗 https://github.com/dlalanis69/movie-rental-system
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**
